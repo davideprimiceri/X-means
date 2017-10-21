@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/data/ContinuousAttribute.java=UTF-8
+encoding//src/data/ContinuousItem.java=UTF-8
+encoding//src/mining/ClusterSet.java=UTF-8
+encoding//src/mining/XmeansMiner.java=UTF-8
